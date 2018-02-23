@@ -1,0 +1,96 @@
+﻿@model Heroes.Models.Heroe
+
+
+@{
+    ViewBag.Title = "Detalle";
+}
+
+
+
+<div class="row">
+    <div class="container col-md-6">
+        <img class="card-img-top" src="@Url.Content(Model.Imagen)" alt="Card image cap">
+    </div>
+
+    <div class="container col-md-6 text-center">
+        <h1>@Model.Nombre</h1>
+        <br />
+        <p class="text-justify">@Model.Historia</p>
+    </div>
+</div>
+
+<div class="row col-md-12">
+    <div class="container col-md-4">
+        @if (Model.Universo == "DC")
+        {
+            <img class="img-responsive" src="~/Content/images/logo_dc.jpg" alt="Logo de DC">
+        }
+        else
+        {
+            <img class="img-responsive" src="~/Content/images/logo_marvel.png" alt="Logo de MARVEL">
+        }
+    </div>
+    <div class="col-md-2"></div>
+
+    <div class="col-md-6">
+
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <a class="nav-item nav-link active" id="nav-Poderes-tab" data-toggle="tab" href="#nav-Poderes" role="tab" aria-controls="nav-Poderes" aria-selected="true">Poderes</a>
+                <a class="nav-item nav-link" id="nav-Debilidades-tab" data-toggle="tab" href="#nav-Debilidades" role="tab" aria-controls="nav-Debilidades" aria-selected="false">Debilidades</a>
+                <a class="nav-item nav-link" id="nav-Universo-tab" data-toggle="tab" href="#nav-Universo" role="tab" aria-controls="nav-Universo" aria-selected="false">Universo</a>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-Poderes" role="tabpanel" aria-labelledby="nav-Poderes-tab">@Model.Poder</div>
+            <div class="tab-pane fade" id="nav-Debilidades" role="tabpanel" aria-labelledby="nav-Debilidades-tab">@Model.Debilidad</div>
+            <div class="tab-pane fade" id="nav-Universo" role="tabpanel" aria-labelledby="nav-Universo-tab">@Model.Universo</div>
+        </div>
+    </div>
+</div>
+
+<div class="row col-md-12">
+    <div class="col-md-8"></div>
+    <div class="col-md-4">
+        <a class="btn btn-primary btn-sm" href="@Url.Action("Index","Heroe")">Regresar</a>
+        <a class="btn btn-success btn-sm" href="@Url.Action("Actualizar", "Heroe", new { id = Model.IdHeroe })">Actualizar</a>
+        <a class="btn btn-danger btn-sm" data-toggle="modal" data-target="#Modal_Eliminar" href="#">Eliminar</a>
+
+        @*<a class="btn btn-danger btn-sm" href="@Url.Action("Eliminar", "Heroe", new { id = Model.IdHeroe })">Eliminar</a>*@
+
+    </div>
+</div>
+
+
+
+<!--CODIGO DEL MODAL Modal -->
+<!-- Modal -->
+
+
+
+<div id="Modal_Eliminar" class="modal fade">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Eliminar Heroe!</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>¿Esta seguro de eliminar @Model.Nombre ?</p>
+            </div>
+            <div class="modal-footer">
+                <a class="btn btn-danger btn-sm" href="@Url.Action("Eliminar", "Heroe", new { id = Model.IdHeroe })">Eliminar</a>
+                <a href="#" class="btn btn-primary btn-sm" data-dismiss="modal">Cancelar</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

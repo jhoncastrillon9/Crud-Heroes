@@ -1,0 +1,264 @@
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\ApplicationInsights.config
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Heroes.dll.config
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Heroes.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Heroes.pdb
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Antlr3.Runtime.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\EntityFramework.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\EntityFramework.SqlServer.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.Web.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.ApplicationInsights.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Newtonsoft.Json.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Helpers.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Mvc.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Optimization.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Razor.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.WebPages.Deployment.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.WebPages.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.WebPages.Razor.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\WebGrease.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\EntityFramework.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\EntityFramework.SqlServer.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Helpers.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Mvc.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Optimization.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.Razor.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.WebPages.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.WebPages.Deployment.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\System.Web.WebPages.Razor.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Antlr3.Runtime.pdb
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Newtonsoft.Json.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.ApplicationInsights.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\Microsoft.AI.Web.xml
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.Helpers.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.Mvc.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.Optimization.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.Razor.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.WebPages.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\obj\Debug\Heroes.csprojResolveAssemblyReference.cache
+c:\users\jhonc\source\repos\Heroes\Heroes\obj\Debug\Heroes.csproj.CoreCompileInputs.cache
+c:\users\jhonc\source\repos\Heroes\Heroes\obj\Debug\Heroes.dll
+c:\users\jhonc\source\repos\Heroes\Heroes\obj\Debug\Heroes.pdb
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\ApplicationInsights.config
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Heroes.dll.config
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Heroes.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Heroes.pdb
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Antlr3.Runtime.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\EntityFramework.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\EntityFramework.SqlServer.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.Web.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.ApplicationInsights.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.Web.Infrastructure.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Newtonsoft.Json.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Helpers.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Mvc.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Optimization.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Razor.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.WebPages.Deployment.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.WebPages.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.WebPages.Razor.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\WebGrease.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\EntityFramework.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\EntityFramework.SqlServer.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Helpers.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Mvc.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Optimization.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.Razor.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.WebPages.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.WebPages.Deployment.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\System.Web.WebPages.Razor.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Antlr3.Runtime.pdb
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Newtonsoft.Json.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.ApplicationInsights.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\Microsoft.AI.Web.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.Helpers.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.Mvc.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.Optimization.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.Razor.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.WebPages.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\obj\Debug\Heroes.csprojResolveAssemblyReference.cache
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\obj\Debug\Heroes.csproj.CoreCompileInputs.cache
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\obj\Debug\Heroes.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes\Heroes\obj\Debug\Heroes.pdb
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\ApplicationInsights.config
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Heroes.dll.config
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Heroes.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Heroes.pdb
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Antlr3.Runtime.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\EntityFramework.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\EntityFramework.SqlServer.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.Web.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Newtonsoft.Json.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Helpers.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Mvc.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Optimization.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Razor.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.WebPages.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.WebPages.Razor.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\WebGrease.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\EntityFramework.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\EntityFramework.SqlServer.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Helpers.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Mvc.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Optimization.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.Razor.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.WebPages.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\System.Web.WebPages.Razor.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Antlr3.Runtime.pdb
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Newtonsoft.Json.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\Microsoft.AI.Web.xml
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.Helpers.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.Mvc.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.Optimization.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.Razor.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.WebPages.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\obj\Debug\Heroes.csprojResolveAssemblyReference.cache
+C:\Users\2-09\Desktop\Heroes\Heroes\obj\Debug\Heroes.dll
+C:\Users\2-09\Desktop\Heroes\Heroes\obj\Debug\Heroes.pdb
+D:\DRIVE COPIA\Heroes\Heroes\bin\ApplicationInsights.config
+D:\DRIVE COPIA\Heroes\Heroes\bin\Heroes.dll.config
+D:\DRIVE COPIA\Heroes\Heroes\bin\Heroes.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Heroes.pdb
+D:\DRIVE COPIA\Heroes\Heroes\bin\Antlr3.Runtime.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\EntityFramework.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\EntityFramework.SqlServer.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.Web.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.ApplicationInsights.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.Web.Infrastructure.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\Newtonsoft.Json.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Helpers.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Mvc.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Optimization.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Razor.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.WebPages.Deployment.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.WebPages.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.WebPages.Razor.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\WebGrease.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\EntityFramework.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\EntityFramework.SqlServer.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Helpers.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Mvc.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Optimization.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.Razor.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.WebPages.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.WebPages.Deployment.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\System.Web.WebPages.Razor.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Antlr3.Runtime.pdb
+D:\DRIVE COPIA\Heroes\Heroes\bin\Newtonsoft.Json.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.ApplicationInsights.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\Microsoft.AI.Web.xml
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.Helpers.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.Mvc.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.Optimization.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.Razor.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.WebPages.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\DRIVE COPIA\Heroes\Heroes\obj\Debug\Heroes.csprojResolveAssemblyReference.cache
+D:\DRIVE COPIA\Heroes\Heroes\obj\Debug\Heroes.csproj.CoreCompileInputs.cache
+D:\DRIVE COPIA\Heroes\Heroes\obj\Debug\Heroes.dll
+D:\DRIVE COPIA\Heroes\Heroes\obj\Debug\Heroes.pdb
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\ApplicationInsights.config
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Heroes.dll.config
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Heroes.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Heroes.pdb
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Antlr3.Runtime.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\EntityFramework.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\EntityFramework.SqlServer.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.Web.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.ApplicationInsights.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.Web.Infrastructure.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Newtonsoft.Json.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Helpers.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Mvc.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Optimization.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Razor.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.WebPages.Deployment.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.WebPages.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.WebPages.Razor.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\WebGrease.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\EntityFramework.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\EntityFramework.SqlServer.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Helpers.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Mvc.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Optimization.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.Razor.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.WebPages.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.WebPages.Deployment.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\System.Web.WebPages.Razor.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Antlr3.Runtime.pdb
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Newtonsoft.Json.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.ApplicationInsights.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.DependencyCollector.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.WindowsServer.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\Microsoft.AI.Web.xml
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.Helpers.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.Mvc.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.Optimization.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.Razor.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.WebPages.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\obj\Debug\Heroes.csprojResolveAssemblyReference.cache
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\obj\Debug\Heroes.csproj.CoreCompileInputs.cache
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\obj\Debug\Heroes.dll
+D:\DRIVE COPIA\Developer Software\C#\Heroes v2\Heroes\Heroes\obj\Debug\Heroes.pdb

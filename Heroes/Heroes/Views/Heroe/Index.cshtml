@@ -1,0 +1,31 @@
+﻿@model List<Heroes.Models.Heroe>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="text-center">
+        <h2 class="">Heroe    <a href=@Url.Action("Nuevo", "Heroe") class="btn btn-success btn-sm">Nuevo</a></h2>
+    </div>
+
+</div>
+
+<hr />
+
+@*/* Se crea un div de tipo columna y el tamaña de la card la definimos como md-4 con el fin de que solo muestre 3 por columna*/*@
+<div class="row">
+    @foreach (var heroe in Model)
+    {
+        //♠4url conten en bd esta guardada la ruta desde la carpetra conten
+        <div class="card col-md-4" style="width: 18rem;">
+            <img class="card-img-top" src="@Url.Content(heroe.Imagen)" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">@heroe.Nombre</h5>
+                <p class="card-text">@heroe.Historia</p>
+                <a href="@Url.Action("Detalle","Heroe", new { id = heroe.IdHeroe } )" class="btn btn-primary btn-sm">Ver detalle</a>
+            </div>
+        </div>
+    }
+</div>
+
+

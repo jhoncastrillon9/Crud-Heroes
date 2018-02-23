@@ -1,0 +1,75 @@
+﻿@model Heroes.Models.Heroe
+@{
+    ViewBag.Title = "Actualizar";
+}
+
+<h2>Actualizar</h2>
+
+@using (Html.BeginForm("Actualizar", "Heroe", FormMethod.Post, new { @class = "form-horizontal", enctype = "Multipart/form-data" }))
+
+{
+
+<div class="card col-md-6" style="width: 25rem;">
+    <img class="card-img-top" src="@Url.Content(Model.Imagen)" alt="Card image cap">
+    <div class="card-body">
+        @*Le coloque el ID para poderlo mandar pero se lo coulte por medio de HTML para que no se vea
+            ya que no es necesario*@
+        <div style="visibility:hidden">
+            @Html.TextBoxFor(Model => Model.IdHeroe, new { @class = "form-control", required = "required" })
+        </div>
+        <div class="form-group">
+            <label>Nombre</label>
+            @Html.TextBoxFor(Model => Model.Nombre, new { @class = "form-control", required = "required" })
+        </div>
+        <div class="form-group">
+            <label>Historia</label>
+            @Html.TextAreaFor(Model => Model.Historia, new { @class = "form-control", required = "required" })
+        </div>
+        <div class="form-group">
+            <label>Poderes</label>
+            @Html.TextBoxFor(Model => Model.Poder, new { @class = "form-control", required = "required" })
+        </div>
+        <div class="form-group">
+            <label>Debilidades</label>
+            @Html.TextBoxFor(Model => Model.Debilidad, new { @class = "form-control", required = "required" })
+        </div>
+        <div class="form-group">
+            <label>Universo:</label>
+            <select class="form-control" name="Universo">
+                <option value="Marvel">Marvel</option>
+                <option value="Dc Comic">Dc Comic</option>
+            </select>
+
+
+            @*@Html.TextBoxFor(Model => Model.Universo, new { @class = "form-control", required = "required" })*@
+        </div>
+
+        <div class="form-group">
+            <label>Imagen:</label>
+
+
+            <div class="input-group mb-3">
+
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="Imagen" name="Imagen" required="required">
+                    <label class="custom-file-label" for="inputGroupFile01">Selecione Imagen</label>
+                </div>
+            </div>
+
+            <div class="container">
+                <a href="@Url.Action("Detalle","Heroe", new { id = Model.IdHeroe } )" class="btn btn-primary btn-sm">Regresar</a>
+                <button type="submit" class="btn btn-success btn-sm">Actualizar</button>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+}
+
+
+
+

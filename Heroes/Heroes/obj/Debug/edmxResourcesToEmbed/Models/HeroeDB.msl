@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Heroes_JFCModelStoreContainer" CdmEntityContainer="Heroes_JFCConnection">
+    <EntitySetMapping Name="Heroe">
+      <EntityTypeMapping TypeName="Heroes_JFCModel.Heroe">
+        <MappingFragment StoreEntitySet="Heroe">
+          <ScalarProperty Name="IdHeroe" ColumnName="IdHeroe" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Historia" ColumnName="Historia" />
+          <ScalarProperty Name="Poder" ColumnName="Poder" />
+          <ScalarProperty Name="Debilidad" ColumnName="Debilidad" />
+          <ScalarProperty Name="Universo" ColumnName="Universo" />
+          <ScalarProperty Name="Imagen" ColumnName="Imagen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

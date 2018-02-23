@@ -1,0 +1,82 @@
+﻿@model Heroes.Models.Heroe
+@{
+    ViewBag.Title = "Nuevo";
+}
+
+<h2>Nuevo</h2>
+
+
+@using (Html.BeginForm("Nuevo", "Heroe", FormMethod.Post, new { @class = "form-horizontal", enctype = "Multipart/form-data" }))
+{
+    //Realmente lo que hace estas dos lineas es dar formato como una tarjeta 
+<div class="card col-md-6" style="width: 25rem;">
+    <div class="card-body">
+
+
+
+        <div class="form-group">
+            <label>Nombre:</label>
+            @Html.TextBoxFor(Model => Model.Nombre, new { @class = "form-control", required = "required" })
+        </div>
+
+        <div class="form-group">
+            <label>Historia:</label>
+            @Html.TextAreaFor(Model => Model.Historia, new { @class = "form-control", required = "required" })
+        </div>
+
+        <div class="form-group">
+            <label>Poderes:</label>
+            @Html.TextBoxFor(Model => Model.Poder, new { @class = "form-control", required = "required" })
+        </div>
+
+        <div class="form-group">
+            <label>Debilidades:</label>
+            @Html.TextBoxFor(Model => Model.Debilidad, new { @class = "form-control", required = "required" })
+        </div>
+
+        <div class="form-group">
+            <label>Universo:</label>
+            <select class="form-control" name="Universo">
+                <option value="Marvel">Marvel</option>
+                <option value="Dc Comic">Dc Comic</option>
+            </select>
+
+
+            @*@Html.TextBoxFor(Model => Model.Universo, new { @class = "form-control", required = "required" })*@
+        </div>
+
+        <div class="form-group">
+            <label>Imagen:</label>
+
+
+            <div class="input-group mb-3">
+
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="Imagen" name="Imagen" required = "required">
+                    <label class="custom-file-label" for="inputGroupFile01">Selecione Imagen</label>
+                </div>
+            </div>
+
+
+
+            @*@Html.TextBoxFor(Model => Model.Imagen, new { @class = "form-control", required = "required" })*@
+        </div>
+        <br />
+        <div class="row">
+            <div class="container text-center">
+                <button class="btn btn-primary btn-sm" type="submit">Guardar</button>
+                <button class="btn btn-success btn-sm" type="reset">Limpiar</button>
+                <a href="@Url.Action("Index", "Heroe")" class="btn btn-danger btn-sm">Regresar</a>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+    
+ 
+
+
+
+}
+
