@@ -2,4 +2,5 @@ Ejemplo de conexion a Bd con CESDE y CASA
 Index, Detalle, Actualizar, Elimnar, Nueva
 Cargar una imagen y guardarla la ruta BD Ademas de Guardar la imagen fisica en el directorio del proyecto
 se utiliza card de bootrap para la vista index
-el detalle se crea solo con boostra y divs
+el detalle se crea solo con boostrap y divs
+
